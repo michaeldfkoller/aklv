@@ -1,0 +1,223 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.17)  31 MAY 2023 08:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./task4.tex
+(task4.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28>
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen139
+\stockheight=\dimen140
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/ntgclass\a4.sty
+Package: a4 2023/01/10 v1.2g A4 based page layout
+)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box51
+) (task4.aux)
+\openout1 = `task4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen143
+\scratchbox=\box52
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen144
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks18
+)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 19.
+
+Overfull \hbox (69.63118pt too wide) in paragraph at lines 75--75
+[]      \OT1/cmtt/m/n/12 jac: array([ 1.90356224e+03,  6.03827099e+04,  5.50742
+652e+02, -3.39157852e+02,[] 
+ []
+
+
+Overfull \hbox (1.70615pt too wide) in paragraph at lines 75--75
+[]        \OT1/cmtt/m/n/12 3.76050344e+04,  6.89774549e+02, -7.87875550e+02, -7
+.53324344e+03,[] 
+ []
+
+
+Overfull \hbox (1.70615pt too wide) in paragraph at lines 75--75
+[]        \OT1/cmtt/m/n/12 2.03990932e+02, -3.16056418e+04, -1.68787765e+05,  3
+.99037784e+03,[] 
+ []
+
+
+Overfull \hbox (1.70615pt too wide) in paragraph at lines 75--75
+[]       \OT1/cmtt/m/n/12 -3.72672987e+03, -3.47118084e+04,  8.56708726e+02, -7
+.55659067e+01,[] 
+ []
+
+
+Overfull \hbox (1.70615pt too wide) in paragraph at lines 75--75
+[]       \OT1/cmtt/m/n/12 -2.50178781e+03, -1.72133296e+03, -4.60322847e+03,  6
+.43211064e+04,[] 
+ []
+
+
+Overfull \hbox (1.70615pt too wide) in paragraph at lines 75--75
+[]       \OT1/cmtt/m/n/12 -1.21424132e+04,  5.17563315e+03, -6.67653345e+04, -2
+.14673333e+04,[] 
+ []
+
+
+Overfull \hbox (7.88115pt too wide) in paragraph at lines 75--75
+[]        \OT1/cmtt/m/n/12 3.85493627e+03, -6.74576164e+04, -3.50401783e+04, -6
+.05883492e+01])[] 
+ []
+
+
+Overfull \hbox (51.10617pt too wide) in paragraph at lines 75--75
+[]        \OT1/cmtt/m/n/12 x: array([ 1.8920582 ,  0.5       ,  8.02518829,  4.
+11209765,  0.5       ,[] 
+ []
+
+[1
+
+{C:/Users/micha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+[]\OT1/cmr/m/n/8 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+[]\OT1/cmr/m/n/8 -
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
+[]\OT1/cmr/m/n/8 -
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+[]\OT1/cmr/m/n/8 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+[]\OT1/cmr/m/n/8 -
+ []
+
+<task40.png, id=19, 462.528pt x 346.896pt>
+File: task40.png Graphic file (type png)
+<use task40.png>
+Package pdftex.def Info: task40.png  used on input line 245.
+(pdftex.def)             Requested size: 409.71689pt x 307.302pt.
+<task41.png, id=21, 462.528pt x 346.896pt>
+File: task41.png Graphic file (type png)
+<use task41.png>
+Package pdftex.def Info: task41.png  used on input line 248.
+(pdftex.def)             Requested size: 409.71689pt x 307.302pt.
+<task42.png, id=22, 462.528pt x 346.896pt>
+File: task42.png Graphic file (type png)
+<use task42.png>
+Package pdftex.def Info: task42.png  used on input line 251.
+(pdftex.def)             Requested size: 409.71689pt x 307.302pt.
+[4] [5 <./task40.png>] [6 <./task41.png>] [7 <./task42.png>] (task4.aux) ) 
+Here is how much of TeX's memory you used:
+ 1348 strings out of 475385
+ 23078 string characters out of 2776907
+ 446919 words of memory out of 3000000
+ 22758 multiletter control sequences out of 15000+600000
+ 472760 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,10n,62p,215b,267s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/U
+sers/micha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb><C:/Users/micha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmmi5.pfb><C:/Users/micha/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmmi6.pfb><C:/Users/micha/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb><C:/Users/micha/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/micha/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/micha/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/micha/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on task4.pdf (7 pages, 311970 bytes).
+PDF statistics:
+ 73 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
