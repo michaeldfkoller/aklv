@@ -1,0 +1,152 @@
+
+
+Funds Level   100000.0
+Risk Free      0.025
+Sigma          0.180
+ delta    = -7097401.1 
+ gamma    =      753.9 
+ rho      = -7706734.3 
+ vega     = 13570183.1 
+ total    =   609333.2 
+
+  allocation over time: 
+ t 1 :    =   609333.2 
+
+ Value by Instrument 
+('P', 1.0, 100000.0, 80000.0)             =   609333.2 -7097401.1 -7706734.3
+
+
+
+Funds Level   99000.0
+Risk Free      0.025
+Sigma          0.180
+ delta    = -7807741.9 
+ gamma    =      817.0 
+ rho      = -8491935.7 
+ vega     = 14559796.1 
+ total    =   684193.7 
+
+  allocation over time: 
+ t 1 :    =   684193.7 
+
+ Value by Instrument 
+('P', 1.0, 100000.0, 80000.0)             =   684193.7 -7807741.9 -8491935.7
+
+
+
+Funds Level   101000.0
+Risk Free      0.025
+Sigma          0.180
+ delta    = -6441020.6 
+ gamma    =      694.1 
+ rho      = -6983036.1 
+ vega     = 12617883.1 
+ total    =   542015.5 
+
+  allocation over time: 
+ t 1 :    =   542015.5 
+
+ Value by Instrument 
+('P', 1.0, 100000.0, 80000.0)             =   542015.5 -6441020.6 -6983036.1
+
+
+
+Funds Level   100000.0
+Risk Free      0.025
+Sigma          0.180
+ delta    = -7089865.2 
+ gamma    =      753.3 
+ rho      = -7698428.1 
+ vega     = 13559114.0 
+ total    =   608562.9 
+
+  allocation over time: 
+ t 1 :    =   608562.9 
+
+ Value by Instrument 
+('P', 1.0, 100000.0, 80000.0)             =   608562.9 -7089865.2 -7698428.1
+
+
+
+Funds Level   100000.0
+Risk Free      0.025
+Sigma          0.180
+ delta    = -7104943.2 
+ gamma    =      754.5 
+ rho      = -7715047.5 
+ vega     = 13581257.1 
+ total    =   610104.3 
+
+  allocation over time: 
+ t 1 :    =   610104.3 
+
+ Value by Instrument 
+('P', 1.0, 100000.0, 80000.0)             =   610104.3 -7104943.2 -7715047.5
+
+
+
+Funds Level   100000.0
+Risk Free      0.025
+Sigma          0.190
+ delta    = -8060424.2 
+ gamma    =      786.9 
+ rho      = -8812441.6 
+ vega     = 14951400.4 
+ total    =   752017.4 
+
+  allocation over time: 
+ t 1 :    =   752017.4 
+
+ Value by Instrument 
+('P', 1.0, 100000.0, 80000.0)             =   752017.4 -8060424.2 -8812441.6
+
+
+
+Funds Level   100000.0
+Risk Free      0.025
+Sigma          0.170
+ delta    = -6121330.1 
+ gamma    =      711.8 
+ rho      = -6602240.0 
+ vega     = 12100322.6 
+ total    =   480909.9 
+
+  allocation over time: 
+ t 1 :    =   480909.9 
+
+ Value by Instrument 
+('P', 1.0, 100000.0, 80000.0)             =   480909.9 -6121330.1 -6602240.0
+
+
+
+Funds Level      1.0
+Risk Free      0.025
+Sigma          0.180
+ delta    =     1000.0 
+ gamma    =        0.0 
+ rho      =        0.0 
+ vega     =        0.0 
+ total    =        0.0 
+
+  allocation over time: 
+
+ Value by Instrument 
+('F', 1.0, 1.0, 1.0)                      =        0.0     1000.0        0.0
+
+
+
+Funds Level      0.8
+Risk Free      0.025
+Sigma          0.180
+ delta    =      800.0 
+ gamma    =        0.0 
+ rho      =        0.0 
+ vega     =        0.0 
+ total    =     -200.0 
+
+  allocation over time: 
+ t 0 :    =     -200.0 
+
+ Value by Instrument 
+('F', 1.0, 1.0, 1.0)                      =     -200.0      800.0        0.0
+
