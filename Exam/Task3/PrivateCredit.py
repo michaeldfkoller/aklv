@@ -46,7 +46,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from markovlv import MARKOVLV, iSetLicense
 
-_LICENSE_PATH = "/Users/michaelkoller/Documents/michael_2039.lic"
+_LICENSE_PATH = "./eth_summer_2027.lic"
 _license_loaded = False
 
 
