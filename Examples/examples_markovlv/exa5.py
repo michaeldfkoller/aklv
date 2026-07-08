@@ -1,4 +1,4 @@
-import markovlib as ml
+import markovlv as ml
 
 wid = ml.WIDDOWLV()
 wid.vSetStopTime(45)    # insured's entry age
@@ -21,3 +21,5 @@ for t in range(2500):
 
 print(f"Reserve at entry age 45: {wid.dGetDK(45):.4f}")
 print(f"Reserve at age 60:       {wid.dGetDK(60):.4f}")
+
+wid.vPrintTeXFileName("wid.tex", True, "Collective Widow Annuity", False )

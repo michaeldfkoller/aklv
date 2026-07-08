@@ -1,4 +1,8 @@
-import markovlib as ml
+import markovlv as ml
+
+strTables = "/Users/michaelkoller/Eulyr/Repo/tables.json"
+
+print(ml.iAddTables(strTables))
 
 cap = ml.CAPITALLV()
 cap.iSetTable("CH-QX-EKM-1995")  # Swiss male capital table 1995

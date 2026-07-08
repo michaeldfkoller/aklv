@@ -1,5 +1,10 @@
 import markovlv as ml
 
+strTables = "/Users/michaelkoller/Eulyr/Repo/tables.json"
+
+print(ml.iAddTables(strTables))
+
+
 ann = ml.ANNUITYLV()
 ann.iSetTable("CH-QX-ERF-1995")  # Swiss female annuity table 1995
 ann.vSetStopTime(65)              # valuation age
